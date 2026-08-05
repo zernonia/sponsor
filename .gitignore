@@ -1,0 +1,11 @@
+node_modules
+.env
+.env.*
+!.env.example
+
+# sponsorkit fetch cache
+sponsorkit/.cache.json
+sponsorkit/.cache.sponsees.json
+
+.DS_Store
+*.log
